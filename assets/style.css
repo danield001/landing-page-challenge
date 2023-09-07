@@ -1,0 +1,21 @@
+header {
+    background-color: darkgreen;
+    border-bottom: 10px black solid;
+    margin: 0px;
+    text-align: right;
+    padding: 15px;
+   
+
+
+}
+
+.header-text {
+    padding:15px;
+    color: white;
+
+}
+
+h1 {
+    text-align: center;
+
+}
