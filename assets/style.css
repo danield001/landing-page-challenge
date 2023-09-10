@@ -29,3 +29,17 @@ img {
     width: auto;
     height: 200px; 
 }
+
+.text-input {
+    display: block;
+    align-content: center;
+}
+
+.container-contact {
+    background-color: lightsalmon;
+}
+
+.contact-form {
+    margin: auto 5px orange;
+    
+}
