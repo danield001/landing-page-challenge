@@ -81,10 +81,13 @@ label {
     padding-top: 20px;
 }
 .form {
-    margin: auto 5px orange;
-    margin-left: 500px;
-    margin-right: 500px;
-   border: auto 5px orange;;
+    
+    margin-left: auto;
+    margin-right: auto;
+   border: auto 5px orange;
+   padding-left: 34%;
+   padding-right: 34%;
+   
    
 
 }
